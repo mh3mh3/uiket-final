@@ -1,0 +1,44 @@
+
+
+.col-md-6 h1{
+	font-family: 'Baloo Bhai', cursive;
+}
+
+.col-md-6 h4{
+	font-family: 'Courgette', cursive;
+}
+
+.navbar {
+	color:#ff6f69;
+}
+
+.navbar-brand{
+	font-family: 'Righteous', cursive;
+	
+}
+
+.section{
+	font-family: 'Nunito', sans-serif;
+}
+
+.description {
+	font-family: 'Comfortaa', cursive;
+}
+
+.container .row .col-md-8 .title{
+	font-family: 'Righteous', cursive;
+}
+
+.watty .info-title {
+	font-family: 'Baloo Bhai', cursive;
+}
+
+.watty p{
+	font-family: 'Titan One', cursive;
+	font-size: 50px;
+}
+
+.profile-page .galley img{
+
+	margin-bottom: 2.142rem;
+}
