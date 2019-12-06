@@ -10943,12 +10943,12 @@ legend {
 }
 
 a {
-  color: #9c27b0;
+  color: #000;
 }
 
 a:hover,
 a:focus {
-  color: #89229b;
+  color: #fff;
   text-decoration: none;
 }
 
@@ -13978,7 +13978,7 @@ textarea {
   padding: 0.625rem 0;
   margin-bottom: 20px;
   color: #555;
-  background-color: #fff !important;
+  background-color: rgba(249, 204, 172, .8) !important;
   box-shadow: 0 4px 18px 0px rgba(0, 0, 0, 0.12), 0 7px 10px -5px rgba(0, 0, 0, 0.15);
 }
 
@@ -14095,7 +14095,7 @@ textarea {
 
 .navbar   {
   
-  color: #ff6f69;
+  color: #00;
   height: 50px;
   font-size: 1.125rem;
   line-height: 30px;
@@ -14686,8 +14686,8 @@ h6,
 .h2,
 .h3,
 .h4 {
-  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
-  font-weight: 300;
+  font-family: "Baloo Bhai", "Helvetica", "Arial", sans-serif;
+  font-weight: 1000;
   line-height: 1.5em;
 }
 
@@ -14724,7 +14724,7 @@ h1,
 
 h2,
 .h2 {
-  font-size: 2.25rem;
+  font-size: 3.25rem;
   line-height: 1.5em;
 }
 
@@ -14736,7 +14736,7 @@ h3,
 
 h4,
 .h4 {
-  font-size: 1.125rem;
+  font-size: 1.325rem;
   line-height: 1.5em;
 }
 
@@ -14777,7 +14777,7 @@ small,
 .footer-big h4,
 .media .media-heading {
   font-weight: 700;
-  font-family: "Roboto Slab", "Times New Roman", serif;
+  font-family: "Baloo Bhai", "Times New Roman", serif;
 }
 
 .title,
@@ -14805,7 +14805,7 @@ h2.title {
 .description,
 .card-description,
 .footer-big p {
-  color: #999;
+  color: #1b0000;
 }
 
 .text-warning {

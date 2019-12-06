@@ -22,7 +22,7 @@
 }
 
 .description {
-	font-family: 'Comfortaa', cursive;
+	font-family: 'Baloo Bhai', cursive;
 }
 
 .container .row .col-md-8 .title{
@@ -41,4 +41,17 @@
 .profile-page .galley img{
 
 	margin-bottom: 2.142rem;
+}
+
+.parallax background-image{
+	opacity: 0.2;
+}
+
+.navbar-collapse .navbar-nav a:hover{
+	background-color:rgba(201, 121, 95, .8) !important;
+	
+}
+
+.navbar-collapse .navbar-nav a:active{
+	background-color:#ffff !important;
 }
