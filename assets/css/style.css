@@ -49,9 +49,10 @@
 
 .navbar-collapse .navbar-nav a:hover{
 	background-color:rgba(201, 121, 95, .8) !important;
-	
+
 }
 
 .navbar-collapse .navbar-nav a:active{
 	background-color:#ffff !important;
 }
+
